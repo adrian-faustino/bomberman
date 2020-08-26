@@ -1,0 +1,10 @@
+#game-canvas {
+  /* make sure canvas is always contained by the browser */
+  max-height: 100vh;
+  max-width: 100%;
+
+  display: block;
+  margin: 10px auto 0 auto;
+
+  background: lightblue;
+}
